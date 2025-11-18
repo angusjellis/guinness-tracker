@@ -39,6 +39,16 @@
         "lat": 53.484222927220465,
         "lng": -2.2366648682395374
       }
+    },
+    {
+      "id": 5,
+      "name": "Laurieston Bar",
+      "price": 4.20,
+      "googleMapsLink": "https://maps.app.goo.gl/FQovkECmy57v19Mo8",
+      "location": {
+        "lat": 55.852853809134864,
+        "lng": -4.258957098558885
+      }
     }
   ]
 } 
